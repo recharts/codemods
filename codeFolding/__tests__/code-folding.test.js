@@ -15,3 +15,11 @@ defineTest(
     "idempotent",
     { parser: "tsx" }
 );
+
+defineTest(
+    __dirname,
+    "code-folding",
+    null,
+    "twoarrays",
+    { parser: "tsx" }
+);
