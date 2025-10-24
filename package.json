@@ -10,6 +10,6 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0",
-    "jscodeshift": "^17.1.1"
+    "jscodeshift": "^17.3.0"
   }
 }
