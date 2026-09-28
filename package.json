@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^30.5.1",
+    "jest": "^30.5.2",
     "jscodeshift": "^17.4.0"
   }
 }
